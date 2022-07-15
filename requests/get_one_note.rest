@@ -1,0 +1,4 @@
+GET http://localhost:3001/notes/someInvalidId
+
+###
+GET http://localhost:3001/notes/62cf785805062c13a26a1087
